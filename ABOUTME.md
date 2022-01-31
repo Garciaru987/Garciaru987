@@ -15,7 +15,3 @@ I would say how to reach me, but I kinda dont want to share personal info, I gue
 andres.garcia04@student.csulb.edu
 
 
-<!---
-Garciaru987/Garciaru987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
